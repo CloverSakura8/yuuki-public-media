@@ -1,4 +1,4 @@
-# tanya-public-media
+# yuuki-public-media
 
 Public image host for Notion embeds. Yuuki pushes screenshots here so they can be rendered inline on Notion pages via raw.githubusercontent.com URLs.
 
